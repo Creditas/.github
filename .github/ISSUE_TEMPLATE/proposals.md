@@ -9,6 +9,7 @@ assignees: ''
 ---
 
 Thank you for your interest to improve this project! If you do not read our [CONTRIBUTING.md](../../CONTRIBUTING.md) yet, please read it before to start your question.
+<!-- To create your own contributing file, you can take inspiration from [nucleon](https://github.com/Creditas/nucleon/blob/master/CONTRIBUTING.md). Additionally check out the [github documentation](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors#adding-a-contributing-file) for more detailed instructions-->
 
 <!-- Please keep this note  -->
 
