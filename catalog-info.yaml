@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: .github
+  name: github
   description: .github is a repository used to store components that can be shared across the organization
   annotations:
     creditas.io/tribe: tribe-foundation
